@@ -8,7 +8,8 @@ require (
 	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/chaitin/libveinmind v1.0.7
 	github.com/chaitin/veinmind-tools/veinmind-common/go v1.0.0
-	github.com/containerd/containerd v1.6.1 // indirect
+	github.com/containerd/containerd v1.6.4
+	github.com/distribution/distribution v2.8.1+incompatible
 	github.com/docker/cli v20.10.12+incompatible
 	github.com/docker/distribution v2.8.1+incompatible // indirect
 	github.com/docker/docker v20.10.13+incompatible
